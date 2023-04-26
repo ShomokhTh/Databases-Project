@@ -1,4 +1,4 @@
 # Databases-Project
 
 ###
-This is a  a simple database for a GYM.
+This is a simple database for a GYM.
